@@ -1,1 +1,1 @@
-# DigitalGamePrototypingLab
+# Digital Game Prototyping Lab
